@@ -9,3 +9,7 @@ There are some differences between using agile development conventional products
 Since data science and machine learning are usually more research intensive, the knowledge which is required for building a feature is initially absent as well as the exact deliverables. For example, we might not want a ML model accuracy of 95% but this is at best a theoretical concept as it cannot be deterministically proven. Furthermore, it could be seen that even with an "accuracy" of 85%, the model is good enough to generate business value. Does this qualify as a deliverable?
 
 I would like to know your thoughts.
+
+## Comments
+
+Yena Park (yp1071): Thanks for sharing this article! I thought it was interesting that while there are challenges to implemeting agile methodologies in machine learning (such as the question of optimization vs delivering a working product, and determining what "working" even means) there are some practices that seem to work well especially for research-intensive environments, e.g. the retrospective, which allows teams to continuously evaluate and priorize their work -- this seems all the more important when the exact outcome is unpredictable.
