@@ -9,3 +9,8 @@ There are some differences between using agile development conventional products
 Since data science and machine learning are usually more research intensive, the knowledge which is required for building a feature is initially absent as well as the exact deliverables. For example, we might not want a ML model accuracy of 95% but this is at best a theoretical concept as it cannot be deterministically proven. Furthermore, it could be seen that even with an "accuracy" of 85%, the model is good enough to generate business value. Does this qualify as a deliverable?
 
 I would like to know your thoughts.
+
+
+#Comment:
+
+Joshua Habif - Interesting article. A first step to the solution to the problem which you pose is defining rigorious metrics on what is "accuracy." Once this term is defined, we can define a metric that measures the accuracy of the model, and, in turn, choose a quantity below which the model does not meet the expectations.   
