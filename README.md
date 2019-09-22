@@ -10,5 +10,11 @@ Since data science and machine learning are usually more research intensive, the
 
 I would like to know your thoughts.
 
+
+#Comment:
+
+Joshua Habif - Interesting article. A first step to the solution to the problem which you pose is defining rigorious metrics on what is "accuracy." Once this term is defined, we can define a metric that measures the accuracy of the model, and, in turn, choose a quantity below which the model does not meet the expectations.   
+
 # Aaron's Comment:
 I thought a very interesting point the author raised was to "build heterogeneous teams." We might assume that a research team should be compromised of all researchers, however, the author discusses how it is important to have the opposite. Developers and product reps should be part of the team as well because they will have to implement the features that researchers find to be the most beneficial. 
+
